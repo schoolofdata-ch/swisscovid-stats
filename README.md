@@ -14,7 +14,10 @@ https://datawrapper.dwcdn.net/4rhGH/5/
 And read more about the app here:
 https://forum.opendata.ch/t/swisscovid-app-facts/676/1
 
-This is a scraper that runs on [Morph](https://morph.io). To get started [see the documentation](https://morph.io/documentation).
+This is a scraper that runs on [Morph](https://morph.io):
+https://morph.io/schoolofdata-ch/swisscovid-stats
+
+To write your own, [see the documentation](https://morph.io/documentation).
 
 The code of this scraper is licensed under CC0 Public Domain Dedication 
 https://creativecommons.org/publicdomain/zero/1.0/
