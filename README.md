@@ -8,11 +8,7 @@ This scraper was needed because the website where the data is currently publishe
 
 The legal status of the data publication is unclear, see [BFS Legal Terms](http://www.disclaimer.admin.ch/terms_and_conditions.html) and do not assume that this can be used for commercial or other purposes.
 
-See a possible visualization of this data at:
-https://datawrapper.dwcdn.net/4rhGH/5/
-
-And read more about the app here:
-https://forum.opendata.ch/t/swisscovid-app-facts/676/1
+See a possible visualization of this data at [Datawrapper](https://datawrapper.dwcdn.net/4rhGH/5/), and find some more background about the app at [forum.opendata.ch](https://forum.opendata.ch/t/swisscovid-app-facts/676/1).
 
 This is a scraper that runs on [Morph](https://morph.io):
 https://morph.io/schoolofdata-ch/swisscovid-stats
